@@ -130,3 +130,5 @@ http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://tsportscdn.s3.ap-southeast-1.amazonaws.com/uploads/settings/logo.png" group-title="Sports",T Sports SD2
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/53.png" group-title="sports",BTV akash
+https://edge2.roarzone.net:8447/roarzone/edge1/3/index.m3u8?token=eb44a21ffc657b26815f0658fbd633ff7268f559-bb3bf88b6025f94c9400af94b50f9608-1781084125-1781073325
