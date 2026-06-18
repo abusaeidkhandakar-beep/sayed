@@ -83,7 +83,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="News",SA TV
+#EXTINF:-1 tvg-id="Fifa in Toffe" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="Sports",Toffe World Cup
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
 
@@ -118,20 +118,5 @@ https://tvsen7.aynascope.net/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1774330298&to
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1781237338:KeyName=prod_linear:Signature=csXn1QJ0WWmugr-o9nrVk3HeupIyt-QfPHukj-GvfstLebP0ISMmgLzMWyfumlJPGJ7uskXHfCcKKLdjRFUhAA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://tsportscdn.s3.ap-southeast-1.amazonaws.com/uploads/settings/logo.png" group-title="Sports",T Sports SD1
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3b4c5a2cfa872fa7f91ffbfb4aa0f658
-
-#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://tsportscdn.s3.ap-southeast-1.amazonaws.com/uploads/settings/logo.png" group-title="Sports",T Sports HD
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://tsportscdn.s3.ap-southeast-1.amazonaws.com/uploads/settings/logo.png" group-title="Sports",T Sports FHD
-http://27.124.71.27/T-Sports/index.m3u8
-
-#EXTINF:-1 tvg-id="tsports" tvg-name="T Sports" tvg-logo="https://tsportscdn.s3.ap-southeast-1.amazonaws.com/uploads/settings/logo.png" group-title="Sports",T Sports SD2
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/53.png" group-title="sports",BTV akash
-https://edge2.roarzone.net:8447/roarzone/edge1/3/index.m3u8?token=eb44a21ffc657b26815f0658fbd633ff7268f559-bb3bf88b6025f94c9400af94b50f9608-1781084125-1781073325
-
-#EXTINF:-1 tvg-id="somoy_tv" tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com//Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
-https://sm-monirul.top/toffee/play/somoy_tv.m3u8
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="News",DBC News
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1781889962~_GO=GeneratedSignature=AduQTZ__yhQoYQ9quTfH5m5S8aVHfNHn65noStJ3WkyY-eBA7y2smXsQ1P_0pKKB1Jc2CsEoHWlzkjB9zSNYr6xh7NsG
