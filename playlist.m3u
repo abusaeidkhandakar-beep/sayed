@@ -118,5 +118,5 @@ https://tvsen7.aynascope.net/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1774330298&to
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1781237338:KeyName=prod_linear:Signature=csXn1QJ0WWmugr-o9nrVk3HeupIyt-QfPHukj-GvfstLebP0ISMmgLzMWyfumlJPGJ7uskXHfCcKKLdjRFUhAA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
 
-#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/Vv6Q42w7/20250719-172535.jpg" group-title="News",DBC News
+#EXTINF:-1 tvg-id="Fifa Toffe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZpEcaO4rpinb5mFHJc6LnK5bU3pZ1xfJUnKCgGc60ww&s" group-title="News",Fifa Toffe
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1781889962~_GO=GeneratedSignature=AduQTZ__yhQoYQ9quTfH5m5S8aVHfNHn65noStJ3WkyY-eBA7y2smXsQ1P_0pKKB1Jc2CsEoHWlzkjB9zSNYr6xh7NsG
