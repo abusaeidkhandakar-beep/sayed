@@ -120,3 +120,6 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fifa Toffe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZpEcaO4rpinb5mFHJc6LnK5bU3pZ1xfJUnKCgGc60ww&s" group-title="News",Fifa Toffe
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1781889962~_GO=GeneratedSignature=AduQTZ__yhQoYQ9quTfH5m5S8aVHfNHn65noStJ3WkyY-eBA7y2smXsQ1P_0pKKB1Jc2CsEoHWlzkjB9zSNYr6xh7NsG
+
+#EXTINF:-1 tvg-name="GO Live" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",GO Live
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
